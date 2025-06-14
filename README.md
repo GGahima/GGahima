@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 --!>
 
-* 🔭 I’m currently working on Cleaning the Restaurant Data on my Final project for Tripleten
+* 🔭 Just graduated in Business Analysis at tripleten Bootcamp
 * 💬 Ask me about Education and Community Tourism in Rwanda.
 * 📫 How to reach me: gabby.gahima@gmail.com
 
